@@ -184,7 +184,7 @@ const PROFILES={
   interestsEn:"His research focuses on zoonotic and emerging pathogens at the wildlife–domestic animal–human interface, with particular interest in vector-borne diseases from a One Health perspective.",
   email:"moises.gonzalvez@uclm.es",profile:"https://www.irec.es/personal/detalle/gonzalvez-juan-moises/",orcid:"https://orcid.org/0000-0003-0423-3189",researcherId:"AFU-0670-2022"
  },
- "Joana Abtrantes":{
+ "Joana Abrantes":{
   photo:"assets/team/joana-abtrantes.png",
   institutionEs:"Departamento de Biología, Facultad de Ciencias, Universidad de Oporto · BIOPOLIS-CIBIO",
   institutionEn:"Department of Biology, Faculty of Sciences, University of Porto · BIOPOLIS-CIBIO",
